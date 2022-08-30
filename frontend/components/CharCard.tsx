@@ -72,17 +72,17 @@ const CharCard = (props: { charInfo: Character; charName: string }) => {
   function getElement(vision: string) {
     switch (vision) {
       case "Anemo":
-        return process.env.PUBLIC_URL + "/images/Element_Anemo.png";
+        return "/images/Element_Anemo.png";
       case "Cryo":
-        return process.env.PUBLIC_URL + "/images/Element_Cryo.png";
+        return "/images/Element_Cryo.png";
       case "Electro":
-        return process.env.PUBLIC_URL + "/images/Element_Electro.png";
+        return "/images/Element_Electro.png";
       case "Geo":
-        return process.env.PUBLIC_URL + "/images/Element_Geo.png";
+        return "/images/Element_Geo.png";
       case "Hydro":
-        return process.env.PUBLIC_URL + "/images/Element_Hydro.png";
+        return "/images/Element_Hydro.png";
       case "Pyro":
-        return process.env.PUBLIC_URL + "/images/Element_Pyro.png";
+        return "/images/Element_Pyro.png";
     }
   }
 };
