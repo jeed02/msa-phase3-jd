@@ -25,7 +25,7 @@ const SearchBar = (props: {
             prop.target.value.replace(/\s+/g, "-").toLowerCase()
           );
         }}
-        label="Enter a Character Name..."
+        label="Enter a Character Name"
         variant="outlined"
         placeholder="Search..."
         size="small"

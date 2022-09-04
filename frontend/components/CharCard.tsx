@@ -15,7 +15,7 @@ const CharCard = (props: { charInfo: Character; charName: string }) => {
             <div className="char-items">
               <Grid container>
                 <Grid item md={6}>
-                  <h1>{props.charInfo.name}</h1>
+                  <h1 className="title">{props.charInfo.name}</h1>
                   <p className="constellation">
                     {props.charInfo.constellation}
                   </p>

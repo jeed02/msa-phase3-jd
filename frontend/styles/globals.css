@@ -10,6 +10,10 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.title {
+  font-size: xx-large;
+}
 .not-found {
   margin-top: 10%;
 }
