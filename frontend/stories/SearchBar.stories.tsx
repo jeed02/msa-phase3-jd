@@ -16,7 +16,7 @@ const Template: ComponentStory<typeof SearchBar> = (args) => (
 
 export const Search = Template.bind({});
 Search.play = async () => {
-  const searchBarInput = screen.getByLabelText("Enter a Character Name...");
+  const searchBarInput = screen.getByLabelText("Enter a Character Name");
 
   await userEvent.type(searchBarInput, "Amber", { delay: 100 });
 
