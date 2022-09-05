@@ -1,0 +1,15 @@
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\RepositoryLayer\bin\Debug\net6.0\ServicesLayer.deps.json
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\RepositoryLayer\bin\Debug\net6.0\ServicesLayer.dll
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\RepositoryLayer\bin\Debug\net6.0\ServicesLayer.pdb
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\RepositoryLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\RepositoryLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\RepositoryLayer\obj\Debug\net6.0\ServicesLayer.csproj.AssemblyReference.cache
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\RepositoryLayer\obj\Debug\net6.0\ServicesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\RepositoryLayer\obj\Debug\net6.0\ServicesLayer.AssemblyInfoInputs.cache
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\RepositoryLayer\obj\Debug\net6.0\ServicesLayer.AssemblyInfo.cs
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\RepositoryLayer\obj\Debug\net6.0\ServicesLayer.csproj.CoreCompileInputs.cache
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\RepositoryLayer\obj\Debug\net6.0\ServicesLayer.csproj.CopyComplete
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\RepositoryLayer\obj\Debug\net6.0\ServicesLayer.dll
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\RepositoryLayer\obj\Debug\net6.0\refint\ServicesLayer.dll
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\RepositoryLayer\obj\Debug\net6.0\ServicesLayer.pdb
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\RepositoryLayer\obj\Debug\net6.0\ref\ServicesLayer.dll

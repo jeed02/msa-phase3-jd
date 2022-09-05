@@ -1,0 +1,17 @@
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\APILayer\bin\Debug\net6.0\APILayer.deps.json
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\APILayer\bin\Debug\net6.0\APILayer.dll
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\APILayer\bin\Debug\net6.0\APILayer.pdb
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\APILayer\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\APILayer\bin\Debug\net6.0\ServicesLayer.dll
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\APILayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\APILayer\bin\Debug\net6.0\ServicesLayer.pdb
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\APILayer\obj\Debug\net6.0\APILayer.csproj.AssemblyReference.cache
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\APILayer\obj\Debug\net6.0\APILayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\APILayer\obj\Debug\net6.0\APILayer.AssemblyInfoInputs.cache
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\APILayer\obj\Debug\net6.0\APILayer.AssemblyInfo.cs
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\APILayer\obj\Debug\net6.0\APILayer.csproj.CoreCompileInputs.cache
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\APILayer\obj\Debug\net6.0\APILayer.csproj.CopyComplete
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\APILayer\obj\Debug\net6.0\APILayer.dll
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\APILayer\obj\Debug\net6.0\refint\APILayer.dll
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\APILayer\obj\Debug\net6.0\APILayer.pdb
+C:\Users\JD\Documents\MSA\msa-phase3-jd\backend\APILayer\obj\Debug\net6.0\ref\APILayer.dll
