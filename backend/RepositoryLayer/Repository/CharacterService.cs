@@ -59,7 +59,11 @@ namespace ServicesLayer.Repository
             Character c = _dbCharacter.Characters.FirstOrDefault(e => e.name.ToLower() == character.name.ToLower());
             if (c != null)
             {
-                c = character;
+                c.vision = character.vision;
+                c.weapon = character.weapon;
+                c.constellation = character.constellation;
+                c.birthday = character.birthday;
+                c.rarity = character.rarity;
                 _dbCharacter.SaveChanges();
             }
 

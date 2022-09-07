@@ -89,7 +89,7 @@ public class CharacterController : ControllerBase
 
 		_repository.UpdateCharacter(c);
 
-		return NoContent();
+		return Ok(c);
 	}
 
 	//DELETE
@@ -103,7 +103,7 @@ public class CharacterController : ControllerBase
 
 		_repository.DeleteCharacter(existingCharacter);
 
-		return NoContent();
+		return Ok("Succesfully Deleted "+name);
 	}
 
     [HttpGet]

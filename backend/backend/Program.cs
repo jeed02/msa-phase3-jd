@@ -18,8 +18,14 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddScoped<ICharacterRepo, CharacterService>();
 
 
-builder.Services.AddDbContext<CharacterDb>(options => options.UseSqlite(builder.Configuration["GenshinAPIConnection"]));
-
+if (builder.Environment.IsDevelopment())
+{
+    builder.Services.AddDbContext<CharacterDb>(options => options.UseInMemoryDatabase("Characters"));
+}
+else if (builder.Environment.IsProduction())
+{
+    builder.Services.AddDbContext<CharacterDb>(options => options.UseSqlite(builder.Configuration["GenshinAPIConnection"]));
+}
 
 builder.Services.AddSwaggerGen();
 
