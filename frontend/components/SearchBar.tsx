@@ -24,6 +24,9 @@ const SearchBar = (props: {
           props.setCharName(
             prop.target.value.replace(/\s+/g, "-").toLowerCase()
           );
+          if (charInput == "") {
+            props.setCharInfo(null);
+          }
         }}
         label="Enter a Character Name"
         variant="outlined"
